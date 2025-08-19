@@ -1,6 +1,10 @@
 # 💫 About Me:
-🚀 MERN Stack Developer | Computer Science Student<br>💻 Passionate about MERN-Stack Development & Problem-Solving<br>📚 Learning DSA, React, Node.js, Express, MongoDB<br>🔍 Looking for MERN Stack internships & freelance opportunities
+🚀 MERN Stack Developer | Computer Science Student<br>Hi there! I'm Khushi, a MERN Stack Developer from Nagpur, India 🚀
 
+👩‍💻 Recent Graduate (B.Tech CSE, 2025) passionate about building full-stack web applications.
+🌱 Currently learning Data Structures & Algorithms and strengthening my MERN expertise.
+💡 I enjoy solving problems, building impactful projects, and contributing to open-source.
+🎯 Actively looking for MERN Stack internships and freelance opportunities.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khushi-samundre/) 
