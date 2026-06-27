@@ -2,15 +2,13 @@
 
 I'm **Khushi**, a passionate **Full-Stack Developer** .
 
-I build complete web applications using the **MERN stack** React.js, Node.js, Express.js, and MongoDB — and enjoy understanding how everything connects, from the UI all the way to the backend and database.
+I build complete web applications using the **MERN stack** React.js, Node.js, Express.js, and MongoDB and enjoy understanding how everything connects, from the UI all the way to the backend and database.
 
 Recently, I built an **AI-powered MCP server** using Python that connects real-time Indian stock market data with Claude, exploring the cutting edge of **AI tool integration and Model Context Protocol (MCP)**.
 
-I enjoy problem-solving, creating user-friendly products, and picking up new technologies fast — whether it's a new framework, protocol, or cloud service.
+I enjoy problem-solving, creating user-friendly products, and picking up new technologies fast whether it's a new framework, protocol, or cloud service.
 
 Currently diving deeper into **DSA, system design, and scalable backend architecture** to write cleaner and more production-ready code.
-
-Open to **internship opportunities** where I can contribute meaningfully, grow with a team, and work on real problems that matter.
 
 Outside of coding, I enjoy designing with Figma/Canva, reading, and following tech innovations. 🚀
 
