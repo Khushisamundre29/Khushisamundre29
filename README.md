@@ -8,7 +8,7 @@ I'm currently **looking for internship and entry-level software engineering / fu
 
 My technical playground revolves around **React, Node.js, JavaScript, Express, MongoDB, MySQL and AWS**.Beyond code, I make art and sketches, solve puzzles and read a lot of books. I also build small side projects just for fun, so feel free to explore my repositories.
 
-Let's Connect!
+#### Let's connect!
 <p>
 <a href="https://www.linkedin.com/in/khushi-samundre/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
