@@ -1,6 +1,6 @@
-## Hey there! I'm Khushi 👋
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-**Full-Stack Developer** & CSE Grad (Class of 2025)
+I'm Khushi a **Full-Stack Developer** & CSE Grad (Class of 2025)
 
 I'm based in Nagpur and I love turning ideas into clean, fast and useful web apps. I like building things end to end: the UI, the API, the database and the cloud setup.
 
