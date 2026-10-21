@@ -2,7 +2,7 @@
 
 I'm Khushi a **Full-Stack Developer** & CSE Grad (Class of 2025)
 
-I'm based in Nagpur and I love turning ideas into clean, fast and useful web apps. I like building things end to end: the UI, the API, the database and the cloud setup.
+I'm based in Nagpur and I love turning ideas into clean, fast and useful web apps. I like building things end to end. the UI, the API, the database and the cloud setup.
 
 I'm currently **looking for internship and entry-level software engineering / full-stack roles**.
 
